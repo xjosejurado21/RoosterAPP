@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864656447031",
+    "project_id": "roosterapp-83645",
+    "storage_bucket": "roosterapp-83645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864656447031:android:7eefbaa1d784d604bc51b2",
+        "android_client_info": {
+          "package_name": "com.example.roosterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_as52I-5WN_BRFWtE8iXtKWLzHPEWuv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
