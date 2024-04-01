@@ -1,0 +1,211 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.novedades.NovedadesFragment">
+
+    <!-- Primera mitad -->
+
+    <LinearLayout
+        android:id="@+id/firstHalfLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/secondHalfLayout">
+
+        <!-- Primer cardview para el primer evento -->
+        <FrameLayout
+            android:id="@+id/firstEventFrameLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/firstEventCardView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp"
+                app:cardUseCompatPadding="true">
+
+                <!-- Contenido del cardview -->
+                <ImageView
+                    android:id="@+id/firstEventImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/evento1" />
+
+                <TextView
+                    android:id="@+id/firstEventTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/black"
+                    android:gravity="center"
+                    android:padding="8dp"
+                    android:text="Evento"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- TextView para especificar que es un evento -->
+
+        </FrameLayout>
+
+        <!-- Segundo cardview para el segundo evento -->
+        <FrameLayout
+            android:id="@+id/secondEventFrameLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/secondEventCardView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp"
+                app:cardUseCompatPadding="true">
+
+                <!-- Contenido del cardview -->
+                <ImageView
+                    android:id="@+id/secondEventImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/evento2" />
+
+                <TextView
+                    android:id="@+id/secondEventTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/black"
+                    android:gravity="center"
+                    android:padding="8dp"
+                    android:text="Evento"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- TextView para especificar que es un evento -->
+
+        </FrameLayout>
+    </LinearLayout>
+
+    <!-- Segunda mitad -->
+    <LinearLayout
+        android:id="@+id/secondHalfLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/firstHalfLayout"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <!-- Primer cardview para el primer merchandising -->
+        <TextView
+            android:id="@+id/firstMerchandiseTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="Merchandising"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <FrameLayout
+            android:id="@+id/firstMerchandiseFrameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/firstMerchandiseCardView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp"
+                app:cardUseCompatPadding="true">
+
+                <!-- Contenido del cardview -->
+                <ImageView
+                    android:id="@+id/firstMerchandiseImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/camiseta" />
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- TextView para especificar que es merchandising -->
+
+        </FrameLayout>
+
+        <!-- Segundo cardview para el segundo merchandising -->
+        <FrameLayout
+            android:id="@+id/secondMerchandiseFrameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/secondMerchandiseCardView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp"
+                app:cardUseCompatPadding="true">
+
+                <!-- Contenido del cardview -->
+                <ImageView
+                    android:id="@+id/secondMerchandiseImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/camiseta2" />
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- TextView para especificar que es merchandising -->
+
+        </FrameLayout>
+
+        <!-- Tercer cardview para el tercer merchandising -->
+        <FrameLayout
+            android:id="@+id/thirdMerchandiseFrameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/thirdMerchandiseCardView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp"
+                app:cardUseCompatPadding="true">
+
+                <!-- Contenido del cardview -->
+                <ImageView
+                    android:id="@+id/thirdMerchandiseImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/camiseta3" />
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- TextView para especificar que es merchandising -->
+
+        </FrameLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
