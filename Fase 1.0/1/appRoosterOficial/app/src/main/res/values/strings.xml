@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appRoosterOficial</string>
+    <!-- Otros recursos de string -->
+    <string name="default_web_client_id">tu_id_de_cliente_web_aquí</string>
+
+
+</resources>

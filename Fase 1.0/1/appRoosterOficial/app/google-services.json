@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119071990910",
+    "project_id": "approosteroficial",
+    "storage_bucket": "approosteroficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119071990910:android:d7ffd59abaf523ef0e242f",
+        "android_client_info": {
+          "package_name": "com.example.approosteroficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB_esGIC84nc9BxEUjgnKTHuC3lNAoyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
