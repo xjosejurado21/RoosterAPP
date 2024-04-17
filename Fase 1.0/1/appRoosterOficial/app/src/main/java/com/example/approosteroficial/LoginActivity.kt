@@ -40,6 +40,8 @@ class LoginActivity : AppCompatActivity() {
             verifyUser(username, password)
         }
 
+
+
         registerButton.setOnClickListener {
             // Navegar a RegisterActivity
             val intent = Intent(this, RegisterActivity::class.java)
@@ -75,16 +77,17 @@ class LoginActivity : AppCompatActivity() {
                 Toast.makeText(this, "Error al iniciar sesión: ${e.message}", Toast.LENGTH_SHORT).show()
             }
     }
+    private fun navigateToNextScreen() {
+        // Aquí se coloca el código para navegar a la siguiente pantalla
+        val intent = Intent(this,PrincipalActivity::class.java) // Cambia
+        startActivity(intent)
+        finish()
+    }
 
     private fun encryptPassword(password: String): String {
         val bytes = MessageDigest.getInstance("SHA-256").digest(password.toByteArray())
         return bytes.joinToString("") { "%02x".format(it) }
     }
 
-    private fun navigateToNextScreen() {
-        // Aquí se coloca el código para navegar a la siguiente pantalla
-        val intent = Intent(this, PrincipalActivity::class.java) // Cambia MainActivity por la actividad destino
-        startActivity(intent)
-        finish()
-    }
+
 }
