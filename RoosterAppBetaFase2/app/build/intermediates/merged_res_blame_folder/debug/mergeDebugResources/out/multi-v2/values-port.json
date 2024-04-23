@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.roosterapp-mergeDebugResources-51:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PapiChulo\\.gradle\\caches\\transforms-3\\e2a4f25dd29816dcd41b0b0c2951bcab\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

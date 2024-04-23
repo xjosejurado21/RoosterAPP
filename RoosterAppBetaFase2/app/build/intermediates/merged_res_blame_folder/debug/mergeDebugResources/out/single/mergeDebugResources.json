@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_eventos.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\bg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\raw_este.mp4.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\raw\\este.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_camiseta2.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\camiseta2.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_web.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_preview.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\preview.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\raw_video.mp4.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\raw\\video.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_camiseta.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\camiseta.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_sample.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\sample.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_evento1.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\evento1.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_camiseta3.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\camiseta3.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_ropa.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_ropa.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\raw_video2.mp4.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\raw\\video2.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\logo.png"
+    },
+    {
+        "merged": "com.example.roosterapp-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.example.roosterapp-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\layout_activity_secundaria.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\layout\\activity_secundaria.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_evento2.png.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\evento2.png"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-debug-53:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\PapiChulo\\.gradle\\daemon\\8.4\\com.example.roosterapp-main-55:\\drawable\\ic_notifications_black_24dp.xml"
+    }
+]
